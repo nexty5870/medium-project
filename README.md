@@ -17,11 +17,15 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/ShvzFR"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
+---
+
 ### 🔥 About this project
 
 As I'm learning the basic and before using framework like tailwind I had to refresh my skills and CSS, the goal of this project #3 was to have a 'heavy' design with a mix between flex / grid
 
 Nothing fancy, just practicing grid and getting the feeling for it.
+
+---
 
 ### Features
 
